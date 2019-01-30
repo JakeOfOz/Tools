@@ -637,7 +637,7 @@ ts-mention {
   color: var(--text) !important; }
 
 #msg_input {
-  background: #AAA !important;
+  background: #3B4048 !important;
   color: var(--text) !important;
   border-color: var(--border-dim) !important; }
   #msg_input.offline {
