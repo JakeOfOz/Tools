@@ -29,10 +29,12 @@
   --silver: #9da5b4;
   --black: #21252b; }
 
-
+  
+  
+ /* geen effect? */
 body { background: #9da5b4; color: #E06C75; }
 
-a { color: #949494; }
+a { color: #--red; }
 
 a:link, a:visited { color: #949494; }
 
