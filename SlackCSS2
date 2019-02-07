@@ -32,13 +32,13 @@
   
 /* Bekend: */
 	/* Links */
-	h1 a { color: --blue; }
+	h1 a { color: #61AFEF; }
 	
 
 /* In Progress */
-	h1, h2, h3, h4 { color: #--red; }
-	h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: var(--green); }
-	.alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: var(--blue); text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
+	h1, h2, h3, h4 { color: #E06C75; }
+	h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #98C379; }
+	.alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: #61AFEF; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 	
   
 /* Geen Effect? */
