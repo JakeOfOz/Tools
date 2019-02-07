@@ -32,20 +32,22 @@
   
 /* Bekend: */
 	/* Links */
+		/* text */
 		a:link, a:visited { color: #568AF2; }
-
+		/* hover color */
+		a:hover, a:active, a:focus { color: #E06C75; }
 
 /* In Progress */
 	
 	
   
 /* Geen Effect? */
-	body { background: #222; color: #ABB2BF; }
-	a { color: #E06C75; }
+	body { background: #D19A66; color: #ABB2BF; }
+	a { color: #98C379; }
 
 	h1 a { color: #61AFEF; }
 
-	a:hover, a:active, a:focus { color: #E06C75; }
+	
 
 	h1, h2, h3, h4 { color: #E06C75; }
 	h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #98C379; }
