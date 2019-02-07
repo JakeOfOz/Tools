@@ -36,7 +36,7 @@
 
 
 /* In Progress */
-	.alert h4, .c-alert h4, .c-alert--boxed h4 { color: #e6e6e6; }
+	.alert h4, .c-alert h4, .c-alert--boxed h4 { color: #E06C75; }
 	.alert-info h4 { color: #E06C75; }
 	
 	
