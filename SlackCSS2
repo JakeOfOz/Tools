@@ -32,11 +32,11 @@
   
 /* Bekend: */
 	/* Links */
-	h1 a { color: var(--blue); }
+	h1 a { color: --blue; }
 	
 
 /* In Progress */
-	h1, h2, h3, h4 { color: var(--red); }
+	h1, h2, h3, h4 { color: #--red; }
 	h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: var(--green); }
 	.alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: var(--blue); text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 	
