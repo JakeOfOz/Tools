@@ -404,11 +404,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #message_edit_container .inline_message_input_container, #message_edit_container .inline_message_input_container.with_file_upload, #threads_msgs .inline_message_input_container, #threads_msgs .inline_message_input_container.with_file_upload, #reply_container.upload_in_threads .inline_message_input_container, #reply_container.upload_in_threads .inline_message_input_container.with_file_upload { background: #545454; border-color: #363636; color: #e6e6e6; }
 
-.inline_message_input_container .ql-container { border-color: #545454; color: #e6e6e6; }
+.inline_message_input_container .ql-container { border-color: #545454; color: #545454; }
 
 .inline_message_input_container .ql-container.focus, .inline_message_input_container .ql-container:active, .inline_message_input_container .ql-container:hover { border-color: #828282; }
 
-.c-message--editing { background: #363636; border-color: #363636; color: #e6e6e6; }
+.c-message--editing { background: #363636; border-color: #363636; color: #545454; }
 
 .c-message__editor__input, .c-message__editor__input--legacy { background: #545454; border-color: #363636; color: #e6e6e6; }
 
@@ -1621,11 +1621,11 @@ body > pre { background: #828282; }
 
 #threads_msgs_scroller_div .threads_caught_up_divider .divider_line { border-top: 1px solid #363636; }
 
-#threads_msgs_scroller_div .threads_caught_up_divider .divider_label { background: #545454; color: #e6e6e6; }
+#threads_msgs_scroller_div .threads_caught_up_divider .divider_label { background: #545454; color: #545454; }
 
 #threads_msgs_scroller_div.loading { background: none; }
 
-#threads_msgs_scroller_div.loading::before { color: #e6e6e6; }
+#threads_msgs_scroller_div.loading::before { color: #545454; }
 
 #threads_view_banner.messages_banner { background: #363636; }
 
