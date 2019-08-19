@@ -1,18 +1,18 @@
 /*Maintained by leoandreotti -> github.com/leoandreotti*/
-@import url('https://fonts.googleapis.com/css?family=Overlock&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gudea&display=swap');
 
 body {
-    font-family: 'Overlock', cursive !important;
+    font-family: 'Gudea', sans-serif !important;
     text-rendering: optimizeLegibility important;
     -webkit-font-smoothing: auto;
 }
 
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor {
-    font-family: 'Overlock', cursive !important;
+    font-family: 'Gudea', sans-serif !important;
 }
 
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-    font-family: 'Overlock', cursive !important;
+    font-family: 'Gudea', sans-serif !important;
 }
 
 div.c-message.c-message--light.c-message--hover {
