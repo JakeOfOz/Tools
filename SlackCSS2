@@ -101,7 +101,7 @@ div.c-message:hover {
 }
 
 a {
-    color: #bb86fc !important;
+    color: #018786 !important;
 }
 
 .comment .app_preview_link_slug,
