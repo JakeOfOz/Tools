@@ -498,13 +498,13 @@ p-search_filter__date:first-child {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #0000ff !important;
+    color: #4561ff !important;
     font-weight: 700 !important;
     font-size: 14px !important;
 }
 
 .light_theme ts-message .message_content .message_sender {
-    color: #0000ff !important;
+    color: #4561ff !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
@@ -1134,7 +1134,7 @@ input[type=search]:focus {
 }
 
 .c-message__sender {
-    color: #0000ff !important
+    color: #4561ff !important
 }
 
 .c-dialog__footer .c-button {
@@ -1150,7 +1150,7 @@ input[type=search]:focus {
 }
 
 a.c-message__sender_link {
-    color: #0000ff !important;
+    color: #4561ff !important;
 }
 
 .ql-editor[aria-label] {
