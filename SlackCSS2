@@ -1,3 +1,4 @@
+/*Maintained by leoandreotti -> github.com/leoandreotti*/
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body {
@@ -326,7 +327,7 @@ ts-message .mention {
 }
 
 .c-search_message__body {
-    color: #cacbcc !important;
+    color: #ffffff60 !important;
 }
 
 .p-search_filter__title_text {
