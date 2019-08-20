@@ -21,7 +21,7 @@ div.c-message.c-message--light.c-message--hover {
 
 .c-message__sender a {
     font-weight: 600;
-    color: white !important;
+    color: #9DCB9D !important;
     font-size: 14px !important;
 }
 
