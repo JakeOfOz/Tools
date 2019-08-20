@@ -508,13 +508,20 @@ p-search_filter__date:first-child {
     font-weight: 700 !important;
 }
 
+
+//kanaal met ongelezen berichten
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
     font-weight: bolder !important;
-	color: white !important
+	color: ffffff87 !important
 }
 
+//kanaal in sidebar 
 .p-channel_sidebar__name {
-	color: #ffffff60
+	color: #ffffff70
+}
+
+.p-channel_sidebar__channel--muted{
+	color: #ffffff45
 }
 
 .p-download_item__container .p-download_item__name_row {
