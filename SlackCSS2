@@ -1471,7 +1471,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
 }
 
 .c-mrkdwn__highlight {
-    color: #ffe9b8 !important;
+    color: #592DBC !important;
 }
 
 .c-action_buttons__button {
