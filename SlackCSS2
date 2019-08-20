@@ -517,11 +517,11 @@ p-search_filter__date:first-child {
 
 //kanaal in sidebar 
 .p-channel_sidebar__name {
-	color: #ffffff70
+	color: #ffffff70 !important
 }
 
 .p-channel_sidebar__channel--muted{
-	color: #ffffff45
+	color: #ffffff45 !important
 }
 
 .p-download_item__container .p-download_item__name_row {
