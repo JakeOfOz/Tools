@@ -413,7 +413,7 @@ ts-message .mention {
 .c-mrkdwn__mention:hover,
 .c-mrkdwn__user_group--mention,
 .c-mrkdwn__user_group--mention:hover {
-    color: black !important
+    color: #ffffff87 !important
 }
 
 #threads_msgs .inline_message_input_container.with_file_upload {
@@ -1260,7 +1260,7 @@ a.c-message__sender_link {
 
 .p-threads_flexpane__header_permalink,
 .p-threads_flexpane__header_channel_name {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
 }
 
 .c-message .c-button--primary {
