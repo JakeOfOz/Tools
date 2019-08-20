@@ -41,7 +41,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #bb86fc !important;
+    color: #ffffff60 !important;
 }
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
