@@ -149,7 +149,7 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-    color: #03dac6 !important;
+    color: #72DDD3 !important;
     font-size: 14px;
     background: transparent
 }
@@ -468,7 +468,7 @@ p-search_filter__date:first-child {
 }
 
 .p-search_filter__more_link {
-    color: #36D4F6;
+    color: #72DDD3;
     font-size: 13px;
     margin-top: 4px;
 }
@@ -476,7 +476,7 @@ p-search_filter__date:first-child {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6;
+    color: #72DDD3;
     outline: none;
     text-decoration: underline;
 }
@@ -592,7 +592,7 @@ p-search_filter__date:first-child {
 }
 
 .p-file_details__share_channel {
-    color: #36D4F6;
+    color: #72DDD3;
 }
 
 .p-file_details__share_divider hr {
@@ -604,11 +604,11 @@ p-search_filter__date:first-child {
 }
 
 .p-file_details__header_back:hover {
-    color: #36D4F6;
+    color: #72DDD3;
 }
 
 .c-deprecated_button--link {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
 }
 
 .p-file_list__file.c-pillow_file_container--full_width:hover {
@@ -680,7 +680,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
     border: none !important;
 }
 
@@ -690,7 +690,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
     border: none !important;
 }
 
@@ -720,7 +720,7 @@ a:hover {
 }
 
 .c-search__input_box__clear {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
 }
 
 .c-search_modal .c-search__input_box__clear {
@@ -765,7 +765,7 @@ a:hover {
 }
 
 code {
-    color: #29ffe8 !important;
+    color: #72DDD3 !important;
 }
 
 .searchable_member_list_filter {
@@ -787,7 +787,7 @@ code {
 }
 
 .c-link--button {
-    color: #36D4F6 !important;
+    color: #72DDD3 !important;
 }
 
 .p-file_upload_dialog__section input.c-input_text:focus {
@@ -1169,7 +1169,7 @@ input[type=search]:focus {
 }
 
 a.c-message__sender_link {
-    color: #4561ff !important;
+    color: #9DCB9D !important;
 }
 
 .ql-editor[aria-label] {
