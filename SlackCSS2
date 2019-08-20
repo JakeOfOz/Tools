@@ -52,11 +52,11 @@ div.c-virtual_list__scroll_container {
 
 //kanaal in sidebar 
 .p-channel_sidebar__name {
-	color: #ffffff70 !important
+	color: #ffffff70 !important;
 }
 
 .p-channel_sidebar__channel--muted{
-	color: #ffffff45 !important
+	color: #ffffff45 !important;
 }
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
@@ -116,7 +116,7 @@ div.c-message:hover {
 }
 
 a {
-    color: #018786 !important;
+    color: #018786;
 }
 
 .comment .app_preview_link_slug,
