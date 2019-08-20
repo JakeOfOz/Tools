@@ -41,7 +41,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #ffffff60 !important;
+    color: #bb86fc !important;
 }
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
@@ -511,6 +511,10 @@ p-search_filter__date:first-child {
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
     font-weight: bolder !important;
 	color: white !important
+}
+
+.p-channel_sidebar__name {
+	color: #ffffff60
 }
 
 .p-download_item__container .p-download_item__name_row {
@@ -1558,7 +1562,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
 }
 
 .c-color_picker__input[type=text] {
-    color: white
+    color: white  !important;
 }
 
 .c-fullscreen_modal__header .c-fullscreen_modal__title {
