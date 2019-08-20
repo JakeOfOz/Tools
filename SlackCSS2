@@ -102,7 +102,7 @@ div.c-message:hover {
 }
 
 a {
-    color: #36D4F6 !important;
+    color: #232599 !important;
 }
 
 .comment .app_preview_link_slug,
@@ -162,7 +162,7 @@ ts-message .mention {
 
 .c-member_slug--link {
     background: transparent;
-    color: #fcc973 !important;
+    color: #4169E1 !important;
     font-weight: 600 !important;
     border: none !important;
     font-size: 13px;
@@ -893,7 +893,7 @@ a.file_download_link:hover {
 }
 
 .p-search_filter__date_readout {
-    color: #ffb28a !important;
+    color: #32cd32 !important;
 }
 
 .p-search_filter__date .c-icon--times-small {
