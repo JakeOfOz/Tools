@@ -1,4 +1,3 @@
-/*Maintained by leoandreotti -> github.com/leoandreotti*/
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body {
@@ -42,7 +41,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #3700B3 !important;
+    color: #bb86fc !important;
 }
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
@@ -102,7 +101,7 @@ div.c-message:hover {
 }
 
 a {
-    color: #3700b3 !important;
+    color: #bb86fc !important;
 }
 
 .comment .app_preview_link_slug,
@@ -162,7 +161,7 @@ ts-message .mention {
 
 .c-member_slug--link {
     background: transparent;
-    color: #3700b3 !important;
+    color: #bb86fc !important;
     font-weight: 600 !important;
     border: none !important;
     font-size: 13px;
