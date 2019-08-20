@@ -1153,7 +1153,7 @@ input[type=search]:focus {
 }
 
 .c-message__sender {
-    color: #4561ff !important
+    color: #9DCB9D !important
 }
 
 .c-dialog__footer .c-button {
