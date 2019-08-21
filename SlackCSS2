@@ -154,6 +154,7 @@ ts-message .mention {
     background: transparent
 }
 
+//achtergrond knop bijlage in chatbalk
 .btn {
     background: #008952;
     color: #fff;
@@ -230,7 +231,7 @@ ts-message .mention {
     width: 100%;
     background: #31353d !important;
     border: 1px solid #31353d !important;
-    color: white !important;
+    color: #ffffff87 !important;
 }
 
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,
@@ -284,7 +285,7 @@ ts-message .mention {
 }
 
 .c-label--inline .c-label__text {
-    color: white !important;
+    color: #ffffff87 !important;
 }
 
 .c-input_select_options_list_container:not(.c-input_select_options_list_container--always-open) {
@@ -309,30 +310,30 @@ ts-message .mention {
 
 .c-search__input_and_close {
     background: #2b2c2e !important;
-    color white !important;
+    color: white !important;
 }
 
 .c-search__input_box {
     background: #2b2c2e !important;
-    color white !important;
+    color: white !important;
 }
 
 .c-search_autocomplete {
     background: #232323 !important;
-    color white !important;
+    color: white !important;
 }
 
 .c-search_autocomplete footer {
     background: #3B3B3B !important;
-    color white !important;
+    color white: !important;
 }
 
 .c-search_autocomplete__suggestion_text {
-    color white !important;
+    color: white !important;
 }
 
 .c-search_autocomplete__suggestion_content .c-search_autocomplete__suggestion_text {
-    color white !important;
+    color: white !important;
 }
 
 .c-search_autocomplete header {
@@ -1301,7 +1302,7 @@ a.c-message__sender_link {
 }
 
 .sli_briefing_preview__description_text {
-    color: white;
+    color: #ffffff87;
 }
 
 .sli_briefing_preview__description_text b {
@@ -1502,7 +1503,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
 
 .channel_title .channel_name {
 
-    color: #ffffff;
+    color: #ffffff87;
 }
 
 #footer {
@@ -1600,7 +1601,7 @@ h4 {
 .menu_member_header .member_details .member_current_status,
 .menu_member_header .member_details .member_timezone_value {
     background: #5b5b5b;
-    color: #ffffff;
+    color: #ffffff87;
 }
 
 .menu_member_footer {
@@ -1784,7 +1785,7 @@ input[type=password].c-input_text {
     line-height: .9rem;
     padding: .6rem .7rem .8rem 0;
     background: #3a3a3a;
-    color: #ffffff;
+    color: #ffffff87; !important
 }
 
 #details_tab .feature_sli_channel_insights .edit_purpose--blank {
@@ -2179,7 +2180,7 @@ textarea {
 }
 
 .charcoal_grey {
-    color: #ffffff !important;
+    color: #ffffff87 !important;
 }
 
 .alert {
@@ -2196,7 +2197,7 @@ textarea {
 
 .btn_link:focus,
 .btn_link:hover {
-    color: #ffffff;
+    color: #ffffff87;
 }
 
 .uneditable-input,
