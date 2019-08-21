@@ -1431,7 +1431,7 @@ a.c-message__sender_link {
 
 //alle text?
 p {
-    color: #ffffff;
+    color: #ffffff; !important
 }
 
 textarea.c-input_textarea.c-input_textarea--with_hint {
