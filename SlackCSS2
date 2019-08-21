@@ -195,7 +195,7 @@ ts-message .mention {
 
 .c-member_slug--link {
     background: transparent;
-    color: #ffffff60 !important;
+    color: #de5ea2 !important;
     font-weight: 600 !important;
     border: none !important;
     font-size: 13px;
