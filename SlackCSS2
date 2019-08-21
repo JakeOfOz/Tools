@@ -231,7 +231,7 @@ ts-message .mention {
     width: 100%;
     background: #31353d !important;
     border: 1px solid #31353d !important;
-    color: #ffffff87 !important;
+    color: #ffffff !important;
 }
 
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,
@@ -568,8 +568,7 @@ p-search_filter__date:first-child {
 }
 
 .c-message__body {
-    margin: 4px 0 -4px;
-     !important
+    margin: 4px 0 -4px !important
 }
 
 .p-file_list a {
