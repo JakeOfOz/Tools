@@ -530,9 +530,6 @@ p-search_filter__date:first-child {
     color: #ffffff87;
 }
 
-
-
-
 .p-download_item__container .p-download_item__name_row {
     color: #ffffff87 !important
 }
@@ -1382,7 +1379,6 @@ a.c-message__sender_link {
 }
 
 .p-threads_view__divider_line {
-
     border-top: 1px solid #323232;
 }
 
@@ -1433,8 +1429,9 @@ a.c-message__sender_link {
     border-color: #000000;
 }
 
+//alle text?
 p {
-    color: #ffffff87;
+    color: #ffffff;
 }
 
 textarea.c-input_textarea.c-input_textarea--with_hint {
