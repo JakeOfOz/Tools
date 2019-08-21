@@ -25,11 +25,12 @@ div.c-message.c-message--light.c-message--hover {
     font-size: 14px !important;
 }
 
+// alle berichten
 span.c-message__body,
 a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
-    color: #ffffff;
+    color: #ffffff; !important
     font-size: 14px;
     letter-spacing: 0.3px !important;
 }
