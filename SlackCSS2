@@ -2530,7 +2530,7 @@ c-keyboard_key {
 .c-pillow_file__snippet__content .CodeMirror {
     height: auto;
     border: none;
-    color: #ffffff;
+    color: #242424;
 }
 
 .c-pillow_file__snippet__content .CodeMirror-code>div:before {
