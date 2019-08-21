@@ -1,59 +1,52 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body {
-    font-family: 'Muli', sans-serif !important;
-    text-rendering: optimizeLegibility important;
+    font-family: 'Muli', sans-serif;		!important
+    text-rendering: optimizeLegibility;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
+    background-color: #121212;
 }
 
-.supports_custom_scrollbar #msg_input.texty_legacy .ql-editor {
-    font-family: 'Muli', sans-serif !important;
-}
 
-.p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-    font-family: 'Muli', sans-serif !important;
-}
-
-div.c-message.c-message--light.c-message--hover {
-    color: grey !important;
-}
-
-.c-message__sender a {
-    font-weight: 600;
-    color: #5AB55A !important;
-    font-size: 14px !important;
-}
 
 // alle berichten
 span.c-message__body,
 a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
-    color: #ffffff; !important
+    color: #ffffff !important;
     font-size: 14px;
     letter-spacing: 0.3px !important;
 }
+
+.c-message__sender a {
+    font-weight: 600;
+    color: #5AB55A 	!important;
+    font-size: 14px !important;
+}
+
+
+
+
+
+
 
 div.c-virtual_list__scroll_container {
     background-color: #121212 !important;
 }
 
-.light_theme ts-message .timestamp {
-    line-height: 18px;
-    opacity: 0;
-    color: #bb86fc !important;
+//kanaal sidebar:
+
+//kanaal naam in sidebar 
+.p-channel_sidebar__name {
+	color: #ffffff70 !important;
 }
 
-//kanaal met ongelezen berichten
+//kanaal met ongelezen berichten naam
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
     font-weight: bolder !important;
 	color: ffffff87 !important
-}
-
-//kanaal in sidebar 
-.p-channel_sidebar__name {
-	color: #ffffff70 !important;
 }
 
 //mute kanalen
@@ -61,20 +54,14 @@ div.c-virtual_list__scroll_container {
 	color: #ffffff45 !important;
 }
 
+
+//Berichten:
 //kleur naam sender
 .c-message--light .c-message__sender .c-message__sender_link {
     color: #9DCB9D !important;
     font-weight: 700 !important;
     font-size: 14px !important;
 }
-
-.light_theme ts-message .message_content .message_sender {
-    color: #5AB55A !important;
-    text-transform: capitalize;
-    font-weight: 700 !important;
-}
-
-
 
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
