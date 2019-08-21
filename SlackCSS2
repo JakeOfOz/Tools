@@ -29,7 +29,7 @@ span.c-message__body,
 a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
-    color: #ffffff87;
+    color: #ffffff;
     font-size: 14px;
     letter-spacing: 0.3px !important;
 }
@@ -204,7 +204,7 @@ ts-message .mention {
 
 .c-member_slug--link:hover {
     background: #de5ea2;
-    color: #ffffff87 !important
+    color: #ffffff !important
 }
 
 .menu_content a {
