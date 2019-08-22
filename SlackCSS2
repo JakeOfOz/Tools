@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body {
-    font-family: 'Muli', sans-serif !important;
+    //font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility !important;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     //word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
@@ -3240,8 +3240,8 @@ a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
     color: #ffffff;
-    font-size: 14.6px;
-    letter-spacing: -0.3px !important;
+    font-size: 16px;
+    letter-spacing: -0.1px !important;
 }
 
 .workspace__primary_view_footer {
